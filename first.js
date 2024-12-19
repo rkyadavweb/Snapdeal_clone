@@ -1,0 +1,1 @@
+alert("Please Open Desktop Mode For Better Exprience");
